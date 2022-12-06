@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="26" height="35" viewBox="0 0 26 35">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <g id="Design">
+    <g id="Shape_1" data-name="Shape 1">
+      <path id="Arrow" class="cls-1" d="M-0.011,34.995L17.665,17.51-0.011.024H7.983L25.66,17.51,7.983,34.995H-0.011Z"/>
+    </g>
+  </g>
+</svg>

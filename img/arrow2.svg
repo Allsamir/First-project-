@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="26" height="26" viewBox="0 0 26 26">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <g id="Design">
+    <g id="Shape_1" data-name="Shape 1">
+      <path id="Ellipse" class="cls-1" d="M13,26A13,13,0,1,1,26,13,13.013,13.013,0,0,1,13,26ZM13,1.193A11.807,11.807,0,1,0,24.806,13,11.819,11.819,0,0,0,13,1.193ZM7.741,21.508l5.088-8.555L7.741,4.665l14.588,8.42Z"/>
+    </g>
+  </g>
+</svg>
